@@ -1,8 +1,5 @@
 # Challenge-Oracle+Alura-Programa One-Decodificador-de-Texto
 
-<h1>Resultado<h1>
-<a href="https://driko50.github.io/Challenge-Oracle-One/">Visualize meu resultado.</a>
-
 <h1>Descrição</h1>
 <p>Uma aplicação que criptografa e descriptografa textos. As "chaves" da decodificação, ou seja, a base da criptografia, são as vogais convertidas da seguinte forma:</p>
 <ul>
